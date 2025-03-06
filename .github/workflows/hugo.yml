@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Credly data - Hugo
-        uses: jimin-seo/credly-crawler@main
+        uses: Jimin Seo/credly-crawler@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: SeoJimin1234/kaonmir.github.io
-          CREDLY_USER: jimin-seo
+          CREDLY_USER: Jimin Seo
           CREDLY_DIR: data/credly.json
           BADGE_SIZE: 32
