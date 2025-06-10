@@ -20,6 +20,7 @@
 ### 🪪Certificates 
 - 정보처리산업기사(Industrial Engineer Information Processing)
 - AWS SAA(Solution Architect Associate)
+- SQLD (SQL Developer)
 
 
 <div align=center>
@@ -32,6 +33,7 @@
 ### 🏅Prize
 - WEB2X connecTHON 대상
 -이화여자대학교 소프트웨어 창업 경진대회 장려상
+- 고려대학교 AI, 블록체인 창업 경진대회 장려상
 
 
 ### ☎️Contact Me
