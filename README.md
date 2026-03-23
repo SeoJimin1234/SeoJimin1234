@@ -42,5 +42,6 @@
 - LinkedIn: jimin-seo-2xx
 - Telegram: @jimena_seo
 - [X](https://x.com/jimin_222_seo?s=21) : @JIMIN_222_SEO 
-- [Notion](https://jn2xxcom.notion.site/13735b1f1b4b815b9c17cd62d810e9ea?v=13735b1f1b4b816b921f000cdbb3674d&pvs=4)   
+- [Notion](https://jn2xxcom.notion.site/13735b1f1b4b815b9c17cd62d810e9ea?v=13735b1f1b4b816b921f000cdbb3674d&pvs=4)
+- [Portfolio](https://drive.google.com/file/d/1v3Ly5Z3RnUqvHK52TfQfRDlCd04lv2-O/view?usp=drive_link)
 
