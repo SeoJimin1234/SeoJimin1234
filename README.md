@@ -1,22 +1,5 @@
 ## Hi, I'm SeoJimin🤗
 
-
-### 🛠️Skills
-
-
-| Skill | Category | Level |
-| --- | --- | --- |
-| <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> | 2 | High |
-| <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> | 5 | Middle |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> | 8 | High |
-| <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> | 8 | Middle |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> | 8 | High |
-| <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> | 8 | Middle |
-| <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white"> | 8 | High |
-| <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"> | 8 | Middle |
-|  |  |  |
-
-
 ### 🪪Certificates 
 - 정보처리산업기사(Industrial Engineer Information Processing)
 - AWS SAA(Solution Architect Associate)
